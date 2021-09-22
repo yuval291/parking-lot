@@ -9,13 +9,6 @@ import ParkingLot.PlateLicenseService;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        // System.out.println("Hello, World!");
-        // Response tests = new Response();
-        // System.out.println("Hello, World! end");
-
-        //7772b2854f88957
-        // Print to the user to put URL in the Console ( ask user to insert url)
-        // Take the URL that inserted(scanf) send it to the service
         ApiClient client;
         PlateLicenseService service;
 
